@@ -7,4 +7,4 @@ When enter hitted, the first person will write his message, then he hit enter wh
 ![git2](https://user-images.githubusercontent.com/113742701/190836873-b142e6b8-fe8e-4690-874d-c440eccba8d8.jpg)
 ![git3](https://user-images.githubusercontent.com/113742701/190836889-d04ecdec-7997-489c-8014-f26e220f2a86.jpg)
 As you can see, a message box shows saying the first person's message, and the same function repeats with the other person but with the reverse person count.
-When enter hitted, the second erson will write his message, then he hit enter when the first person watches it.
+When enter hitted, the second person will write his message, then he hit enter when the first person watches it.
