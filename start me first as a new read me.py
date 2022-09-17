@@ -1,6 +1,6 @@
 from turtle import *
 import time
-print('Hello! I wannted to say this.')
+print('Hello! I wanted to say this.')
 circle(130)
 print('This version is too great! I loved so much this WhatScriptVersion!')
 print('Bye!')
